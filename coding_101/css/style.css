@@ -1,0 +1,66 @@
+body {
+  background-color: white;
+  color: red;
+  font-family: courier;
+}
+h1 {
+color: red;
+font-size: 10pt;
+font-style: oblique;
+font-weight: bold;
+font-family: courier;
+padding: 0px;
+margin: 0px;
+}
+h2 {
+  color: red;
+  font-size: 10pt;
+  font-style: oblique;
+  text-align: left;
+  font-weight: lighter;
+  font-family: courier;
+  padding: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  width: 145px;
+}
+h3 {
+  color: red;
+  font-size: 10pt;
+  font-style: oblique;
+  text-align: left;
+  font-weight: lighter;
+  font-family: courier;
+  padding: 0px;
+  margin-top: 0px;
+  margin-bottom: 200px;
+  width: 230px;
+}
+h2:hover{
+  Background-color: #b3e6ff;
+}
+h3:hover{
+  Background-color: #b3e6ff;
+}
+p {
+  color: red;
+  font-size: 8pt;
+  padding: 0px;
+  margin: 0px;
+  font: courier;
+}
+#ender{
+  padding-top: 200px;
+  padding-bottom: 50px;
+  font-weight: bold;
+  font-family: courier;
+}
+.ltext{
+  padding-right: 500px;
+}
+.projectname{
+  Background-color: #b3e6ff
+}
+img {
+  margin-top: 6px;
+}
